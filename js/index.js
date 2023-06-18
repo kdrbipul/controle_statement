@@ -38,3 +38,15 @@ if (num > 0){
 }else {
     console.log("Zero");
 }
+
+
+let age = 25;
+let hasLicense = true;
+if (age>=18){
+    console.log("You can Drive");
+}else{
+    console.log("You cannot Drive");
+}
+
+
+
