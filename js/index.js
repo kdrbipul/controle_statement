@@ -14,3 +14,19 @@ if(time<12){
 }else{
     console.log("Good Evening");
 }
+
+
+let x = 10;
+let y = 5;
+
+if (x > 0) {
+    if (y>0){
+        console.log("Both x and y are positive");
+    } else {
+        console.log("x is positive, but y is not");
+    } 
+}else {
+    console.log("x is not positive");
+}
+
+
